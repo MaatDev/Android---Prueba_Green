@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/GreenDroid"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/GreenDroid-GoogleAPIs"/>
+	<classpathentry kind="src" path="GreenDroid-GoogleAPIs_src"/>
+	<classpathentry kind="src" path="GreenDroid_src"/>
+	<classpathentry kind="lib" path="C:/Programas_Sin_Instalador/Android/add-ons/addon_google_apis_google_inc_10/libs/maps.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Programas_Sin_Instalador/Android/add-ons/addon_google_apis_google_inc_10/docs/reference"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
